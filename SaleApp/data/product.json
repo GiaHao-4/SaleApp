@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 2G",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCr2-yHIhxI67Lt7xaBlHHDqjFrvzBB4GTqQ&s",
+    "price": 800000000,
+    "cate_id": 2
+  },
+  {
+    "id": 2,
+    "name": "Iphone 3G",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCKgcaFVGroslh64EhnCXrEwSNHaOmHRIo_A&s",
+    "price": 3000000,
+    "cate_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy Z Flip 5",
+    "image": "https://cdn.tgdd.vn/Products/Images/42/299250/samsung-galaxy-z-flip5-mint-thumbnew-600x600.jpg",
+    "price": 7900000,
+    "cate_id": 2
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy Note 10",
+    "image": "https://cdn.tgdd.vn/Products/Images/42/201551/samsung-galaxy-note-10-plus-5g-white-600x600.jpg",
+    "price": 15000000,
+    "cate_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Iphone 4",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp9Z6-NwG7ATjl1Csd5LryIuFS8LzIRmBsaw&s",
+    "price": 270000,
+    "cate_id": 2
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy A56",
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-samsung-galaxy-a56_2__2.png",
+    "price": 9510000,
+    "cate_id": 2
+  },
+  {
+    "id": 7,
+    "name": "Acer Gaming Nitro AN515",
+    "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329337/acer-nitro-an515-58-773y-i7-12700h-nhqfksv00116g-3-638603105930322073-750x500.jpg",
+    "price": 23000000,
+    "cate_id": 1
+  },
+  {
+    "id": 8,
+    "name": "Ipad Gen 10th",
+    "image": "https://shopdunk.com/images/thumbs/0009725_ipad-gen-10-th-109-inch-wifi-64gb.png",
+    "price": 8390000,
+    "cate_id": 3
+  },
+  {
+    "id": 9,
+    "name": "Masstel Tab 8A",
+    "image": "https://masstel.vn/wp-content/uploads/2021/10/z3367021208348_4e81ea7365ef900f5853ef6f2ec8b669.jpg",
+    "price": 4190000,
+    "cate_id": 3
+  }
+]
