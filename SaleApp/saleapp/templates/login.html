@@ -3,18 +3,25 @@
 {% block content %}
 
     <h3 class="text-info text-center mt-3">TRANG ĐĂNG NHẬP</h3>
-    <form>
+
+    {% if err_msg %}
+        <div class="alert alert-danger">
+            {{ err_msg }}
+        </div>
+    {% endif %}
+
+    <form method="post">
         <div class="form-floating mb-3 mt-3">
-            <input type="text" class="form-control" id="email" placeholder="Enter email" name="email">
-            <label for="email">Email</label>
+            <input type="text" class="form-control" id="email" placeholder="Nhập tài khoản" name="username">
+            <label for="email">Tài khoản</label>
         </div>
 
         <div class="form-floating mt-3 mb-3">
-            <input type="text" class="form-control" id="pwd" placeholder="Enter password" name="pswd">
-            <label for="pwd">Password</label>
+            <input type="password" class="form-control" id="pwd" placeholder="Nhập mật khẩu" name="password">
+            <label for="pwd">Mật khẩu</label>
         </div>
         <div class="form-floating mt-3 mb-3">
-            <button class="btn btn-info"r>Đăng nhập</button>
+            <button class="btn btn-info" type="submit">Đăng nhập</button>
         </div>
     </form>
 {% endblock %}
